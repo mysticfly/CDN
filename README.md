@@ -1,6 +1,7 @@
 # CDN
 
-1200х630
+### 1200х630
+
 Wolf
 Blck
 Yellow
