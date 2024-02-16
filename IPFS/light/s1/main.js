@@ -1,6 +1,6 @@
 // Функция для загрузки содержимого из main.html и вставки его в index.html
 function loadMainContent() {
-    fetch('https://cdn.jsdelivr.net/gh/mysticfly/cdn/IPFS/light/s1/main.html')
+    fetch('https://cdn.jsdelivr.net/gh/mysticfly/cdn/IPFS/light/s1/main-v1.html')
         .then(response => response.text())
         .then(data => {
             document.open();
